@@ -1,8 +1,11 @@
 streamlit
 numpy
 pandas
-fitz
+fitz-cpu
 faiss
 streamlit 
 sentence_transformers
 os
+opencv-python
+pillow
+scikit-learn
