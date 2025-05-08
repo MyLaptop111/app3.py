@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+fitz
+faiss
+streamlit 
+sentence_transformers
+os
