@@ -1,5 +1,4 @@
 import os
-pip install puMuPDF
 import fitz  # PyMuPDF
 import numpy as np
 import pandas as pd
