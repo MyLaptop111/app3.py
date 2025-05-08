@@ -1,4 +1,5 @@
 import os
+pip install puMuPDF
 import fitz  # PyMuPDF
 import numpy as np
 import pandas as pd
@@ -73,3 +74,4 @@ if query:
 
             csv = df.to_csv(index=False).encode('utf-8')
             st.download_button("📥 Download Results as CSV", csv, "search_results.csv", "text/csv")
+        
